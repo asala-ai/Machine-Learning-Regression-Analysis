@@ -59,15 +59,20 @@ Three preprocessing scenarios were evaluated:
 ## Repository Structure
 
 ```
+Repository Structure
 Machine_Learning_Project/
 │
 ├── README.md
-├── *.ipynb
+├── Machine_Learning_Project.ipynb
 │
 └── Results/
-    ├── confusion_matrix.png
+    ├── ADR_before_outlier_removal.png
+    ├── ADR_after_outlier_removal.png
     ├── regression_plot.png
-    └── PCA_plot.png
+    ├── linear_regression_results.png
+    ├── logistic_regression_results.png
+    ├── PCA_plot.png
+    └── confusion_matrix.png
 ```
 
 ## Future Work
